@@ -21,7 +21,7 @@ def Zadacha_1():
     for country in sorted_countries_capitals:
         capital = countries_capitals[country]
         print(country, ":", capital)
-
+Zadacha_1()
 
 def Zadacha_2():
     letter_values = {
